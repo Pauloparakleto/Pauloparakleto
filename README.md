@@ -2,7 +2,7 @@
 
 My name is Paulo Felipe Souza. I'm brazilian, from Belém state of Pará, North of Brazil (The north remember).
 
-- 🔭 I’m currently working on a personal web application writen in Ruby on Rails called [Nintendo Mania](https://pauloparakleto.github.io/download_games/), it is to download games. As you may see, I like retro games.
+- 🔭 I’m currently working on a personal web application written in Ruby on Rails called [Nintendo Mania](https://pauloparakleto.github.io/download_games/), it is to download games. As you may see, I like retro games.
 - 🔭 I built a [webhook application in Rails](https://pauloparakleto.github.io/webhookrails/) to listen to issues events on github. It is usefull for developers who want to stay up to date with their favorites projects.
 
 I am a master degree in economic area who is looking for opportunities on changing of carrier to
