@@ -21,7 +21,7 @@ Este é um projeto pessoal de download de jogos antigos de Super Nintendo feito 
 Nesse projeto, eu resolvi desafiar a mim mesmo a não usar Bootstrap e
 construir todo o layout responsivo com CSS. Isso me deu a vantagem de encontrar rapidamente eventuais problemas na view e corrigí-los imediatamente.
 
-Vá em frente e teste em diferentes dispositivos, inclusive vertical e horizontalmente em smart phones. A aplicação consome um storage na google cloud. Faça o teste, pesquise pelo seu jogo de Super Nintendo favorito e baixe-o. Mas se for jogar mesmo, usa o emulador snes9x, um dos melhores emuladores que eu conheço.
+Vá em frente e teste em diferentes dispositivos, inclusive vertical e horizontalmente em smart phones. A aplicação consome um storage na google cloud. Faça o teste, pesquise pelo seu jogo de Super Nintendo favorito e baixe-o. Mas se for jogar mesmo, use o emulador snes9x, um dos melhores emuladores que eu conheço.
 
  - [Live demo do projeto Nintendo Mania](https://ancient-bayou-79761.herokuapp.com/)
  - [Sobre o projeto e detalhes técnicos](https://pauloparakleto.github.io/download_games/)
@@ -50,7 +50,7 @@ Uma lição extra que aprendi deste projeto: entrega contínua é importante.
 
 ### Tema de Cores Matrix Revolution para Visual Studio Code
 
-Se você usa vscode e é fã dos filmes matrix, eu te convido a baixar meu tema pessoa matrix revolution. Ele está no marketplace do vscode grátis. Até agora, já foram mais de 70 downloads em menos de um mês.
+Se você usa vscode e é fã dos filmes matrix, eu te convido a baixar meu tema pessoal matrix revolution. Ele está no marketplace do vscode grátis. Até agora, já foram mais de 70 downloads em menos de um mês.
 
 - [Installar Matrix Revolution direto do Marketplace do vscode](https://marketplace.visualstudio.com/items?itemName=PauloSouza.matrix-revolution-color-theme)
 
