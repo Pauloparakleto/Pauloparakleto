@@ -1,6 +1,6 @@
 # Programador ruby 👋
 
-Meu nome é Paulo Felipe Souza, sou de Belém do Pará, Norte do Brasil (*the north remember*).
+Meu nome é Paulo Felipe Souza, sou de Belém do Pará, Norte do Brasil (*the north remember*). Sou um dos contribuidores do projeto [opoloo/lines-engine](https://github.com/opoloo/lines-engine), um blog engine feito em rails 5. Você também está convidado a participar. Atualmente, meu foco é na internacionalização de todas as views.
 
 ## Objetivo Profissional
 
