@@ -38,7 +38,7 @@ As instruções de como utilizar este projeto estão no meu repositório GitHub.
 
 Refatoração de código legado de projeto open source em Rails 5. O escopo deste trabalho foi a aplicação da responsividade de acordo com a filosofia “mobile first” com o Bootstrap. Para tal projeto, foi necessário ler uma documentação do JQuery, uma vez que o Bootstrap usa JQuery para alterar as classes do layout.
 
-A experiência com o meu primeiro projeto pontuado aqui, o Nintendo Mania, foi importante para entender o comportamento das classes do Bootstrap e alterá-lo manualmente de acordo com o escopo do projeto.
+A experiência com o meu primeiro projeto pontuado aqui, o Nintendo Mania, foi importante para entender o comportamento das classes do Bootstrap e alterá-lo manualmente de acordo com o escopo do projeto. Aconselho você a testar as views dos dois projetos, o original e meu fork, em diferentes telas. Ainda, alterar no seu computador o tamanho da tela do seu navegador para ver como ambos se comportam.
 
 - [Live demo do meu fork](https://damp-meadow-76948.herokuapp.com/)
 - [Live demo do projeto original](http://pymenta.herokuapp.com/)
