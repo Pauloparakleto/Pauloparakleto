@@ -14,6 +14,14 @@ Bem, essa história é um pouco longa e espero ligar os pontos dela até fazer s
 
 ## Experiência
 
+### Projeto Diário de Estudos
+
+Projeto realizado durante o processo seletivo da Iugu for Devs. É um sistema criado em Rails 6 e totalmente testado em sua integralidade.
+Seu fluxo de autenticação é via Devise. Usei Simple Form para as views do Devise. Seu método de pesquisa é feito via Ransack e seu layout foi feito com Bootstrap.
+
+- [Live demo do projeto Diário de Estudos](https://damp-reef-29097.herokuapp.com/)
+- [Repositório do Projeto e detalhes técnicos](https://github.com/Pauloparakleto/aquecimento-iugu-study-diary-rails)
+
 ### Projeto Nintendo Mania
 
 Este é um projeto pessoal de download de jogos antigos de Super Nintendo feito em Ruby on Rails 6. Sua versão atual e todos os detalhes técnicos de como acessá-lo e fazer seu deploy estão em meu repositório no Github.
@@ -24,7 +32,7 @@ construir todo o layout responsivo com CSS. Isso me deu a vantagem de encontrar 
 Vá em frente e teste em diferentes dispositivos, inclusive vertical e horizontalmente em smart phones. A aplicação consome um storage na google cloud. Faça o teste, pesquise pelo seu jogo de Super Nintendo favorito e baixe-o. Mas se for jogar mesmo, use o emulador snes9x, um dos melhores emuladores que eu conheço.
 
  - [Live demo do projeto Nintendo Mania](https://ancient-bayou-79761.herokuapp.com/)
- - [Sobre o projeto e detalhes técnicos](https://pauloparakleto.github.io/download_games/)
+ - [Sobre o projeto e detalhes técnicos](https://github.com/Pauloparakleto/download_games)
  
  ### Webhook API Feita em Ruby on Rails 6
  
