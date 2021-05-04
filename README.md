@@ -4,6 +4,9 @@ Meu nome é Paulo Felipe Souza, sou de Belém do Pará, Norte do Brasil (*the no
 
 Sobre projetos pessoais, sou um dos contribuidores do projeto [opoloo/lines-engine](https://github.com/opoloo/lines-engine), um blog engine feito em rails 5. Você também está convidado a participar. Atualmente, meu foco é na internacionalização de todas as views.
 
+<h3 align="left">Linguagens e ferramentas:</h3>
+<p align="left"> <a href="https://circleci.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> </p>
+
 ## Objetivo Profissional
 
 Meu objetivo profissional é me aprofundar ainda mais em desenvolvimento web (Ruby e Ruby on
