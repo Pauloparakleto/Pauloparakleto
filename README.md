@@ -1,6 +1,6 @@
 # Programador ruby 👋
 
-[... English Recruter or Tech Lead? For you ❤️](https://github.com/Pauloparakleto/resume/blob/main/README.md)
+[... English Recruiter or Tech Leader? For you ❤️](https://github.com/Pauloparakleto/resume/blob/main/README.md)
 
 Meu nome é Paulo Felipe Souza, sou de Belém do Pará, Norte do Brasil (*the north remember*). Atualmente, presto serviço como Desenvolvedor Backend Júnior para a empresa Certus, uma fintech e Startup que tem tudo para crescer e se firmar no mercado a depender de todos os seus colaboradores.
 
