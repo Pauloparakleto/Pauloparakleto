@@ -2,7 +2,7 @@
 
 [... English Recruiter or Tech Leader? For you ❤️](https://github.com/Pauloparakleto/resume/blob/main/README.md)
 
-Meu nome é Paulo Felipe Souza, sou de Belém do Pará, Norte do Brasil (*the north remember*). Atualmente, presto serviço como Desenvolvedor Backend Júnior para a empresa Certus, uma fintech e Startup que tem tudo para crescer e se firmar no mercado a depender de todos os seus colaboradores.
+Meu nome é Paulo Felipe Souza, sou de Belém do Pará, Norte do Brasil (*the north remember*).
 
 Sobre projetos pessoais, sou um dos contribuidores do projeto [opoloo/lines-engine](https://github.com/opoloo/lines-engine), um blog engine feito em rails 5. Você também está convidado a participar. Atualmente, meu foco é na internacionalização de todas as views.
 
@@ -20,6 +20,10 @@ E o que um bacharel em economia, mestre também em economia, formado pela Univer
 Bem, essa história é um pouco longa e espero ligar os pontos dela até fazer sentido também para você. Mas antes, eu gostaria de te apresentar alguns dos projetos que tenho trabalhado/concluido no ramo do universo do código ruby.
 
 ## Experiência
+
+## Backend Ruby on Rails
+
+Desenvolvedor Backend Júnior para a empresa Certus, uma fintech e Startup.  
 
 ### CSV Uploader
 
