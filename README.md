@@ -21,7 +21,7 @@ Bem, essa história é um pouco longa e espero ligar os pontos dela até fazer s
 
 ## Experiência
 
-## Backend Ruby on Rails
+### Backend Ruby on Rails
 
 Desenvolvedor Backend Júnior para a empresa Certus, uma fintech e Startup.  
 
