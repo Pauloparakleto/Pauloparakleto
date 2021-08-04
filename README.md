@@ -21,6 +21,16 @@ Bem, essa história é um pouco longa e espero ligar os pontos dela até fazer s
 
 ## Experiência
 
+### CSV Uploader
+
+É um sistema em Ruby on Rails 6 que resolve o seguinte cenário:
+
+Documentação dos items de uma Loja Virtual especializada na venda de aparelhos de telefonia celular. Para criar o inventário inicial da loja, com todos os telefones disponíveis, o estoque e seus preços, envia-se arquivos CSV com os dados a incluir. Também se pode periodicamente atualizar o inventário com planilhas idênticas, assim como dando a possibilidade de aplicar alguns filtros.
+
+A aplicação está coberta com testes e os detalhes de como você pode roda-la em sua máquina local estão descritos no repositório do projeto.
+
+- [Repositório do Projeto CSV Uploader](https://github.com/Pauloparakleto/csv_uploader)
+
 ### Projeto Diário de Estudos
 
 Projeto realizado durante o processo seletivo da Iugu for Devs. É um sistema criado em Rails 6 e totalmente testado em sua integralidade.
