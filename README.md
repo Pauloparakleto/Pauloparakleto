@@ -23,7 +23,9 @@ Bem, essa história é um pouco longa e espero ligar os pontos dela até fazer s
 
 ### Backend Ruby on Rails
 
-Desenvolvedor Backend Júnior para a empresa Certus, uma fintech e Startup.  
+Desenvolvedor Backend Júnior para a empresa Certus, uma fintech e Startup.
+
+## Projetos Pessoais
 
 ### CSV Uploader
 
@@ -34,6 +36,17 @@ Documentação dos items de uma Loja Virtual especializada na venda de aparelhos
 A aplicação está coberta com testes e os detalhes de como você pode roda-la em sua máquina local estão descritos no repositório do projeto.
 
 - [Repositório do Projeto CSV Uploader](https://github.com/Pauloparakleto/csv_uploader)
+
+### Almocherif
+
+Sistema em Rails 6 para cadastro de estoque com nome e quantidade. Sua funcionalidade principal é dar entrada e saída na quantidade dos itens do estoque. Observa-se os seguintes critérios: 
+1. Um item do estoque já movimentado, com entrada ou saída em sua quantidade, não pode ser deletado por motivo de futura auditoria.
+
+2. Não se pode movimentar os itens do estoque em horário fora do horário comercial.
+
+- [Repositório do Projeto Almocherif](https://github.com/Pauloparakleto/almocherif)
+
+Sua atual fase de construção está documentada em um check list no REAEDME do repositório. 
 
 ### Projeto Diário de Estudos
 
