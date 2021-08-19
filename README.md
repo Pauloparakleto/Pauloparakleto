@@ -46,7 +46,19 @@ Sistema em Rails 6 para cadastro de estoque com nome e quantidade. Sua funcional
 
 - [Repositório do Projeto Almocherif](https://github.com/Pauloparakleto/almocherif)
 
-Sua atual fase de construção está documentada em um check list no REAEDME do repositório. 
+Sua atual fase de construção está documentada em um check list no REAEDME do repositório.
+
+### Order Wizard Manager
+
+Sistema básico de gerenciamento de pedidos (de compra/venda). Suas funcionalidades:
+
+1. Uma ordem criada possui status pendente
+2. Pode-se alterar status de pendente para em progresso e, por fim, para completo.
+3. Uma ordem possui autoincremento de seu código de pedido.
+4. Pode-se filtrar ordem por status ou por código de controle.
+
+- [Order Wizard-Management Repository](https://github.com/Pauloparakleto/order-management-system)
+- [Check the live application](https://order-wizard-manager.herokuapp.com)
 
 ### Projeto Diário de Estudos
 
