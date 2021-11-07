@@ -33,6 +33,12 @@ Por fim, era responsável por manter a documentação da Api atualizada, pois el
 
 ## Projetos Pessoais
 
+### Fidelity Plan
+
+Sistema onde treino principalmente a customização das formas de autenticação com Devise. Objetivo da `release/v0.1` é permitir somente ao administrador enviar convite para que outras pessoas possam também ser administradores. Portanto, sem rotas para cadastro de administradores.
+
+- [Repositório do Projeto Fidelity Plan](https://github.com/Pauloparakleto/fidelity-plan)
+
 ### CSV Uploader
 
 É um sistema em Ruby on Rails 6 que resolve o seguinte cenário:
