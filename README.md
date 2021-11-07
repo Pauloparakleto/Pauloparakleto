@@ -23,7 +23,13 @@ Bem, essa história é um pouco longa e espero ligar os pontos dela até fazer s
 
 ### Backend Ruby on Rails
 
-Desenvolvedor Backend Júnior para a empresa Certus, uma fintech e Startup.
+**Desenvolvedor Backend Júnior para a empresa Certus**, uma fintech e Startup. Aqui, destaco uma das funcionalidades que implementei de ponta a ponta, clonar o pedido de vendas e clonar a natureza de operação. Em ambos os casos, o usuário precisava anteriormente fornecer todos os dados da venda e da natureza de operação. Visto que somente alguns campos deveriam ser exlcusivos, como o código do pedido de venda, implementei estas duas funcionalidades, todas testadas em rspec.
+
+Também implementei o autoincremento do código do pedido de vendas. Com testes para que cada empresa tivesse somente o seu respectivo pedido de vendas atualizado.
+
+Por fim, era responsável por manter a documentação da Api atualizada, pois ela era integrada com os testes de requisição. Se estes falhassem, não se gerava a documentação para a equipe do frontend. Então, lá estava eu a enviar um hotfix antes que um frontend batesse a minha porta.
+
+**Desenvolvedor Backend Júnior para a empresa Sygnal Group**. Sistema já em produção, monitoramos os eventuais bugs com [Honeybadger](https://www.honeybadger.io/). A partir de alguma exceção sinalizada, sanamos o evento, proponho os testes e os pontos onde se deve aumentar a cobertura.
 
 ## Projetos Pessoais
 
