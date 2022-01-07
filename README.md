@@ -33,6 +33,15 @@ Por fim, era responsável por manter a documentação da Api atualizada, pois el
 
 ## Projetos Pessoais
 
+## Book Store Fox
+
+Mini livraria online com carrinho de compras para o cliente e portal do administrador.
+
+Há também um sistema de auditoria. Quando um administrador altera dados dos livros ou dos autores, estas ações são auditadas na tela de Audit Books e Audit Authors.
+
+- [Live Demo](http://bookstorefox.herokuapp.com/admins/sign_in)
+- [Repositório](https://github.com/Pauloparakleto/bookstore)
+
 ### Fidelity Plan
 
 Sistema onde treino principalmente a customização das formas de autenticação com Devise. Objetivo da `release/v0.1` é permitir somente ao administrador enviar convite para que outras pessoas possam também ser administradores. Portanto, sem rotas para cadastro de administradores.
