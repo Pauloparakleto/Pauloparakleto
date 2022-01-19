@@ -21,6 +21,12 @@ Bem, essa história é um pouco longa e espero ligar os pontos dela até fazer s
 
 ## Experiência
 
+### Economista gestor de projetos
+
+Atuei no time da gestão de projeto para a startup Desenvolve - Tributação Municipal Sustentável.
+
+Um dos papéis que destacaria aqui era o de visitar as secretarias das prefeituras assistidas pela empresa a fim de identificar possíveis maneiras de aumentar a eficiência dos processos rotineiros via sistema web.
+
 ### Backend Ruby on Rails
 
 **Desenvolvedor Backend Júnior para a empresa Certus**, uma fintech e Startup. Aqui, destaco uma das funcionalidades que implementei de ponta a ponta, clonar o pedido de vendas e clonar a natureza de operação. Em ambos os casos, o usuário precisava anteriormente fornecer todos os dados da venda e da natureza de operação. Visto que somente alguns campos deveriam ser exlcusivos, como o código do pedido de venda, implementei estas duas funcionalidades, todas testadas em rspec.
@@ -47,6 +53,21 @@ Há também um sistema de auditoria. Quando um administrador altera dados dos li
 Sistema onde treino principalmente a customização das formas de autenticação com Devise. Objetivo da `release/v0.1` é permitir somente ao administrador enviar convite para que outras pessoas possam também ser administradores. Portanto, sem rotas para cadastro de administradores.
 
 - [Repositório do Projeto Fidelity Plan](https://github.com/Pauloparakleto/fidelity-plan)
+
+### Product Manager
+
+O objetivo deste mini projeto foi implementar tarefas adicionais à api restful deste [repositório](https://github.com/Pauloparakleto/product-manager), que consiste em gerenciar o catálogo de produtos de um e-commerce.
+
+As funcionalidades implementadas foram as seguintes:
+
+1. Adicionar paginação a api de produtos
+com o valor padrão de 20 itens por página, podendo ser alterado via parâmetros até o máximo de 100;
+
+2. Permitir ordenar por qualquer uma das colunas de forma crescente ou decrescente;
+
+3. Permitir filtrar por qualquer uma das colunas, podendo usar todas as comparações possíveis (contém, igual, diferente, maior, maior ou igual, menor...);
+
+4. Criar endpoint de produtos relacionados, em uma relação de n..n com produto, onde um produto pode ter um ou mais produtos relacionados, sendo necessário validar que um produto não pode ser linkado a ele próprio. A api permite adicionar e remover relações de produtos.
 
 ### CSV Uploader
 
