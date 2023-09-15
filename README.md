@@ -22,7 +22,7 @@ I’m preparing myself to stay aligned with agile environments. I want to be a g
    4. From November 2022 on, working in an accounting system to solve local government financial management problems. 
    
 ### OPEN SOURCE CONTRIBUTION
-   1. [OpenFoodNetwork](https://github.com/openfoodfoundation/openfoodnetwork) refactoring tests. This is a sytem aiming keep food price affordable in the world.
+   1. [OpenFoodNetwork](https://github.com/openfoodfoundation/openfoodnetwork) refactoring tests. This is a system aiming keep food price affordable in the world.
    2. [Purple Stock](https://github.com/Purple-Stock/open-erp) a Stock Management System helping middle companies controll their stocks in Brazil.
 
 ### Achievements
