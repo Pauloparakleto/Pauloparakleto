@@ -25,6 +25,7 @@ I’m preparing myself to stay aligned with agile environments. I want to be a g
    1. [OpenFoodNetwork](https://github.com/openfoodfoundation/openfoodnetwork) refactoring tests. This is a system aiming keep food price affordable in the world.
    2. [Purple Stock](https://github.com/Purple-Stock/open-erp) a Stock Management System helping middle companies controll their stocks in Brazil.
    3. [Ruby On Rails](https://github.com/rails/rails/pull/44123)
+   4. [GoodJob](https://github.com/bensheldon/good_job/commits?author=Pauloparakleto)
 
 ### Achievements
 1. [National Competition about public accounting improvements](https://www.gov.br/economia/pt-br/assuntos/planejamento-e-assuntos-economicos/orcamento-federal/noticias/premio-sof-e-entregue-para-monografia-sobre-riscos-na-elaboracao-do-orcamento)
