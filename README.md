@@ -13,7 +13,7 @@ I’m preparing myself to stay aligned with agile environments. I want to be a g
 
 #### Back-end Ruby on Rails
 
-  1. I worked as a junior back-end from March to August in a fin-tech startup in Brazil in 2121.
+  1. I worked as a junior back-end from March to August in a fin-tech startup in Brazil in 2021.
     
   2. From August 2021, In a software house monitoring a stable system already in production. When a bug popped up on the honeybadger, we map it and increase the coverage with tests.
     
